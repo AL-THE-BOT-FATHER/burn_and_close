@@ -2,7 +2,7 @@
 
 Each token account is about .002 SOL which adds up if you have a lot of "dust". 
 
-Do not add token accounts with tokens that are actually worth something. 
+***Do not add*** token accounts with tokens that are actually worth something. 
 
 ### Instructions:
 Fill in your RPC, priv key (base58 string), and add your old token accounts to the list. 
